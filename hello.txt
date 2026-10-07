@@ -2,3 +2,4 @@ Hello Git!
 I am learning version control.
 This is the final merged version.
 Git is connected to GitHub!
+This change was made from the original repository.
