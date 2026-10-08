@@ -6,3 +6,5 @@ This change was made from the original repository.
 This is a reset practice commit.
 This change exists only on cherry-pick-test.
 This change was made by another developer.
+Change made from Developer B's computer.
+Developer B is making a remote update.
